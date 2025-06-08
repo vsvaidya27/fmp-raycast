@@ -2,7 +2,7 @@
 
 I lose my phone often, so I made this.
 
-This is a Node.js script that uses Playwright to automate iCloud Find My and trigger a sound on your Apple device. It's perfect for people like me who misplace their phones and want a quick, automated way to make them ring—right from the command line or Raycast.
+This is a Node.js script that uses Playwright to automate iCloud Find My and trigger a sound on your Apple device. It's perfect for people like me who misplace their phones and want a quick, automated way to make them ring—with Raycast.
 
 ## Usage
 
