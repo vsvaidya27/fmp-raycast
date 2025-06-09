@@ -1,4 +1,4 @@
-#!/Users/varunvaidya/.nvm/versions/node/v18.18.0/bin/node
+#!/usr/bin/env node
 
 // Required parameters:
 // @raycast.schemaVersion 1
