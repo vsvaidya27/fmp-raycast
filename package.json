@@ -1,16 +1,9 @@
 {
   "name": "findmyraycast",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "fmp.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "find": "node find-my-phone-native.js",
-    "find-simple": "node find-my-phone-simple.js",
-    "find-keyboard": "node find-my-phone-keyboard.js",
-    "find-launcher": "node find-my-phone-launcher.js",
-    "debug": "node find-my-phone-debug.js",
-    "debug-deep": "node find-my-phone-debug-deep.js",
-    "debug-simple": "node find-my-phone-debug-simple.js"
+    "start": "node fmp.js"
   },
   "keywords": [],
   "author": "",
@@ -18,9 +11,6 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.5.0",
-    "puppeteer": "^24.10.0"
-  },
-  "devDependencies": {
     "playwright": "^1.52.0"
   }
 }
